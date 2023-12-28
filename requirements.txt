@@ -1,0 +1,9 @@
+openai
+pathlib
+python-dotenv
+fastapi
+requests
+starlette
+uvicorn
+jinja2
+python-multipart
